@@ -1,4 +1,4 @@
-Introduction-to-Programming-with-Ruby
+my exercises
 =====================================
 
 Coding exercises
