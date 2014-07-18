@@ -1,0 +1,5 @@
+First x prints  3.
+
+second x prints  an error.
+
+Second x is initialized in inner scope, so it isn't available within that outer scope.

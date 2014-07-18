@@ -1,0 +1,1 @@
+It does not assign a variable to 'shoes' in the program, or it can't be accessible in the outer scope.
