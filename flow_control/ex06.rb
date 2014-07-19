@@ -12,7 +12,7 @@
 
 #equal_to_four(5)
 
-# Above, the if.. conditional statement in the method lost the 'end' so that it could run a error . 
+# In th above method, the if.. conditional statement within the method lost the 'end' so that it could run a error . 
 
 # Adding an end to modify it.
 
