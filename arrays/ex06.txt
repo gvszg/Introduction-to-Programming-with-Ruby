@@ -1,0 +1,6 @@
+To set 'jody' in the array should use an integer in "names[ ]" not a string.
+
+To modify the array lets it work :
+	
+	names[3] = 'jody'
+
