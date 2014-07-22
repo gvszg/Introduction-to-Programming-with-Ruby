@@ -1,0 +1,8 @@
+x = "hi there" 
+
+my_hash = {x: "some value"}   =>  this X is a symbol
+
+my_hash2 = {x => "some value"}   =>  the x is a sting of variable
+
+
+
