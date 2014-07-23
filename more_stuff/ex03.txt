@@ -1,0 +1,3 @@
+Exception handling process some errors in programs.
+
+Exception handling has a syntactic structure using begin, rescue, and end to use.
