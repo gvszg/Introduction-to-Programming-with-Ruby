@@ -1,0 +1,3 @@
+brew_coffee_hash = {tool: ['espresso', 'drip', 'aeropress'] }
+
+brew_coffee_arr = [{tool:'espresso'}, {tool:'drip'}, {tool:'aeropress'}]

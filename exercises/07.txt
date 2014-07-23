@@ -1,0 +1,3 @@
+A Hash is a data collection that uses a key value pair to use.
+
+An aray uses integers as its index.
