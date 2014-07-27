@@ -14,3 +14,14 @@ p x_array
 
 p z_array
 
+
+puts "~~~~~~~~~~~~~~"
+
+# using map method
+
+z_array = x_array.map { |n| n += 2 }
+
+
+p x_array
+
+p z_array
